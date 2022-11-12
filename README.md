@@ -1,2 +1,0 @@
-# MAD-x
-apt update 
